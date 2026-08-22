@@ -1,0 +1,36 @@
+# Hi, I'm Rashmi 👋
+
+Machine Learning enthusiast and Python developer who likes taking projects from a raw dataset all the way to a deployed, working system.
+
+Currently pursuing an Executive Diploma in AI/ML at IIIT Bangalore, alongside a BCA from Delhi Skill and Entrepreneurship University.
+
+🔭 Currently building: an end-to-end EV charging demand forecasting system (feature engineering, FastAPI serving, Docker deployment)
+🌱 Currently learning: RAG pipelines and applied LLM engineering
+💬 Ask me about: feature engineering, catching data leakage, or why your model's 99% accuracy might be lying to you
+📫 Reach me: baghelrashmi04@gmail.com · [LinkedIn](https://www.linkedin.com/in/rashmi-baghel-5086a326a/)
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:** Python · SQL
+**ML/DL:** Scikit-learn · XGBoost · TensorFlow Lite · Pandas · NumPy
+**Frameworks:** Flask · Django · FastAPI · Streamlit
+**Tools:** Git · Docker · Jupyter · Google Colab
+
+---
+
+### 📌 Featured Projects
+
+| Project | What it does |
+|---|---|
+| [Smart EV Grid Optimization](https://github.com/baghelrashmi04/Smart-EV-grid-optmization-Demand-Engine) | End-to-end ML system forecasting EV charging demand to reduce grid spikes and driver wait times |
+| [GPT-2 FriendVoice App](https://github.com/baghelrashmi04/gpt-2-friendvoice-app) | Fine-tuned GPT-2 model with a Streamlit UI to mimic a conversational style |
+| [CIFAR-10 Image Classifier](https://github.com/baghelrashmi04/cifar10-image-classifier) | Image classification app using TensorFlow Lite and Flask |
+| [House Price Predictor](https://github.com/baghelrashmi04/house_predicting_model-flask) | Flask web app predicting housing prices with a Random Forest model |
+
+---
+
+### 📊 GitHub Stats
+
+![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=baghelrashmi04&show_icons=true&theme=default)
