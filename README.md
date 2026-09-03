@@ -17,6 +17,8 @@ Currently: Executive Diploma in AI/ML | Targeting Data Engineering / ML roles
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Jupyter Notebook](https://shields.io) ![VS Code](https://shields.io)
+
 
 ---
 
