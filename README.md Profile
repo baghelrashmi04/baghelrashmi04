@@ -2,6 +2,7 @@
 
 Turning models into things that actually run — from notebook to deployed API.
 Currently: Executive Diploma in AI/ML | Targeting Data Engineering / ML roles
+![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=baghelrashmi04&show_icons=true&theme=default)
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -14,7 +15,7 @@ Currently: Executive Diploma in AI/ML | Targeting Data Engineering / ML roles
 
 ### 🚀 Featured Projects
 
-**[AI Resume ATS Analyzer](https://github.com/baghelrashmi04/REPO-NAME-HERE)**
+**[AI Resume ATS Analyzer](https://github.com/baghelrashmi04/ai-resume-ats-analyzer)**
 End-to-end pipeline: resume upload → text extraction (pdfplumber/python-docx) → spaCy keyword matching → LLM-powered bullet rewriting (Gemini) → live ATS score. Containerized with a two-service Docker architecture, deployed live on Render.
 🔗 [Live demo](https://ai-resume-ats-analyze-1.onrender.com) · Tech: FastAPI, Streamlit, spaCy, Google Gemini API, Docker
 > One real problem I solved: the LLM would occasionally *fabricate* specifics for vague resume bullets instead of flagging them. Fixed by building a separate vagueness-detection layer that routes thin bullets away from the rewriter instead of letting the model guess.
