@@ -4,8 +4,8 @@ Turning models into things that actually run — from notebook to deployed API.
 Currently: Executive Diploma in AI/ML | Targeting Data Engineering / ML roles
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=baghelrashmi04&show_icons=true&theme=tokyonight" width="350" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baghelrashmi04&layout=compact&theme=tokyonight" width="250" />
+  <img src="https://github-readme-stats.vercel.app/api?username=baghelrashmi04&show_icons=true&theme=tokyonight&border_radius=15" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baghelrashmi04&layout=compact&theme=tokyonight&border_radius=15" width="250" />
 </p>
 <!--![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=baghelrashmi04&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baghelrashmi04&layout=compact&theme=default)-->
