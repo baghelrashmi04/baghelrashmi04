@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hi%20there,%20I'm%20Rashmi!&fontSize=35&animation=twinkling&border_radius=25" width="100%" />
 </p>
-### Hi, I'm Rashmi 👋 
+<!--### Hi, I'm Rashmi 👋 -->
 
 Turning models into things that actually run — from notebook to deployed API.
 Currently: Executive Diploma in AI/ML | Targeting Data Engineering / ML roles
