@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hi%20there,%20I'm%20Rashmi!&fontSize=35&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=header&text=Hi%20there,%20I'm%20Rashmi!&fontSize=35&animation=twinkling&border_radius=25" width="100%" />
 </p>
 ### Hi, I'm Rashmi 👋 
 
